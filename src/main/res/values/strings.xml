@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="choice">
+
+        <item>For particular Student</item>
+        <item>For particular Branch Or Year</item>
+        <item>For ALL</item>
+    </string-array>
+    <string-array name="branch">
+        <item>cse</item>
+        <item>ece</item>
+        <item>me</item>
+        <item>ce</item>
+        <item>all</item>
+    </string-array>
+    <string-array name="year">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>all</item>
+    </string-array>
+</resources>
